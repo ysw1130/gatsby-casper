@@ -109,7 +109,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "양순원의 이력서",
+            title: "ghost",
             match: '^/blog/',
           },
         ],
