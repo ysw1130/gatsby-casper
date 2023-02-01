@@ -54,7 +54,7 @@ export type WebsiteConfig = {
 };
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
+  title: 'YangSoonWon',
   description: 'The professional publishing platform',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
