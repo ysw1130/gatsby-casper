@@ -55,7 +55,7 @@ export type WebsiteConfig = {
 
 const config: WebsiteConfig = {
   title: 'YangSoonWon',
-  description: 'The professional publishing platform',
+  description: 'Test',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
